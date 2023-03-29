@@ -1,0 +1,10 @@
+.cart_inner {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .triggers {
+    display: flex;
+    gap: 20px;
+  }
